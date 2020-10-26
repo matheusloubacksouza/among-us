@@ -1,0 +1,40 @@
+body{
+
+    background-image: url(https://img.freepik.com/vetores-gratis/fundo-de-espaco-com-estrelas-ilustracao-vetorial_97886-319.jpg?size=626&ext=jpg);
+}
+
+
+h1{
+    color: rgb(255, 255, 255);
+    font-family: "Balsamiq Sans";
+    font-size: 40px
+}
+h2{
+    color: rgb(239, 240, 240);
+    font-family: "Balsamiq Sans";
+    font-size: 25px
+}
+h3{
+    color: rgb(255, 0, 0);
+    font-family: "Balsamiq Sans";
+    font-size: 40px
+}
+
+h4{
+    color: rgb(255, 0, 0);
+    font-family: "Balsamiq Sans";
+    font-size: 25px
+}
+
+h5{
+    color: rgb(0, 238, 255);
+    font-family: "Balsamiq Sans";
+    font-size: 40px
+
+}
+
+h6{
+    color: rgb(0, 238, 255);
+    font-family: "Balsamiq Sans";
+    font-size: 25px
+}
